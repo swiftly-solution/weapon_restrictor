@@ -1,0 +1,17 @@
+{
+    "map_restriction": {
+        "de_mirage": [
+            "weapon_ak47"
+        ]
+    },
+    "prefix": "[{lime}Swiftly{default}]",
+    "per_team": {
+        "weapon_ak47": {
+            "t": 1,
+            "ct": 1
+        }
+    },
+    "enable_in_warmup": true,
+    "per_player": {},
+    "limit_per_team": true
+}
