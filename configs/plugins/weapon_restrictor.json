@@ -12,6 +12,12 @@
         }
     },
     "enable_in_warmup": true,
-    "per_player": {},
+    "per_player": {
+        "weapon_ak47": {
+            "default": 5,
+            "5": 7,
+            "10": 15
+        }
+    },
     "limit_per_team": true
 }
